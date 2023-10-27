@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925635400314",
+    "project_id": "cocylce-app",
+    "storage_bucket": "cocylce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925635400314:android:1fbeacde7de74b70daa1c3",
+        "android_client_info": {
+          "package_name": "com.example.cyclone_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNfflTAsm_tJc5kyGDLztWj694C2qaEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
